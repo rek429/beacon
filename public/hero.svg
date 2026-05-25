@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="190" stroke="#6B6FD4" stroke-width="1" stroke-opacity="0.12"/>
+  <circle cx="200" cy="200" r="150" stroke="#6B6FD4" stroke-width="1.5" stroke-opacity="0.2"/>
+  <circle cx="200" cy="200" r="110" stroke="#6B6FD4" stroke-width="2" stroke-opacity="0.3"/>
+  <circle cx="200" cy="200" r="70"  stroke="#6B6FD4" stroke-width="2.5" stroke-opacity="0.5"/>
+  <circle cx="200" cy="200" r="35"  fill="#6B6FD4" fill-opacity="0.15" stroke="#6B6FD4" stroke-width="2"/>
+  <circle cx="200" cy="200" r="14"  fill="#6B6FD4"/>
+  <circle cx="193" cy="193" r="5"   fill="white" fill-opacity="0.65"/>
+  <!-- family dots orbiting -->
+  <circle cx="200" cy="90"  r="10" fill="#6B6FD4" fill-opacity="0.6"/>
+  <circle cx="310" cy="200" r="8"  fill="#6B6FD4" fill-opacity="0.4"/>
+  <circle cx="200" cy="310" r="9"  fill="#6B6FD4" fill-opacity="0.5"/>
+  <circle cx="90"  cy="200" r="7"  fill="#6B6FD4" fill-opacity="0.35"/>
+</svg>

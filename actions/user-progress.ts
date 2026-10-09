@@ -6,7 +6,7 @@ import { auth, currentUser } from "@clerk/nextjs";
 import { and, eq } from "drizzle-orm";
 
 import db from "@/db/drizzle";
-import { getCourseById, getUserProgress, getUserSubscription } from "@/db/queries";
+import { getUserProgress, getUserSubscription } from "@/db/queries";
 import { tracks, userProgress } from "@/db/schema";
 import { MAX_HEARTS } from "@/lib/constants";
 
